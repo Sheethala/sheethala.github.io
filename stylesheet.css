@@ -12,6 +12,11 @@ background-repeat: no-repeat !important;
 background-attachment: fixed;
 }
 
+a{
+  color: white !important;
+  text-decoration: none !important;
+}
+
 @media (min-width: 991px) {
   .floatr{
     float: right;
