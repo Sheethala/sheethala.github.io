@@ -11,14 +11,47 @@ html, body{
 	color: black;
 }
 
+.contact-container {
+	padding-top: 20px;
+	text-align: center;
+}
+
+.contact-child-container {
+	display: inline-block;
+	text-align: left;
+}
+
+.contact-padding {
+	padding-bottom: 20px;
+}
+
+.contact-icon {
+	font-size: 50px;
+	vertical-align: middle;
+}
+
+.contact-link {
+	color: black;
+}
+
+.contact-text {
+	vertical-align: middle;
+	font-family: 'Neucha',cursive;
+	font-size: 20px;
+	font-style: normal;
+	text-decoration: none;
+}
+
 .about-text {
 	font-size: 20px;
 	padding-top: 20px;
 	font-family: 'Neucha',cursive;
+	text-align: center;
 }
 
 .about-heading {
 	font-size: 30px;
+	text-align: center;
 }
 
 .img-container {
@@ -31,6 +64,12 @@ html, body{
 	justify-content: center;
 	font-family: 'Neucha',cursive;
 	font-size: 21px;
+	margin-top: 10px;
+	margin-bottom: 40px;
+}
+
+.about-image {
+	max-width: 100%
 }
 
 .image {
